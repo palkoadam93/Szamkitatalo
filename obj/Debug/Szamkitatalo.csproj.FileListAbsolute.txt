@@ -1,0 +1,7 @@
+C:\Users\HP 255\source\repos\Szamkitatalo\bin\Debug\Szamkitatalo.exe.config
+C:\Users\HP 255\source\repos\Szamkitatalo\bin\Debug\Szamkitatalo.exe
+C:\Users\HP 255\source\repos\Szamkitatalo\bin\Debug\Szamkitatalo.pdb
+C:\Users\HP 255\source\repos\Szamkitatalo\obj\Debug\Szamkitatalo.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\Szamkitatalo\obj\Debug\Szamkitatalo.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\Szamkitatalo\obj\Debug\Szamkitatalo.exe
+C:\Users\HP 255\source\repos\Szamkitatalo\obj\Debug\Szamkitatalo.pdb
